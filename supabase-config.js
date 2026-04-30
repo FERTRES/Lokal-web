@@ -2,8 +2,8 @@
 // Thornex Digital Entity - MorvithSERV
 
 const SUPABASE_CONFIG = {
-    url: 'https://tycspbyxzzisqtwpmybd.supabase.co',
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR5Y3NwYnl4enppc3F0d3BteWJkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3NzM2OTM5MiwiZXhwIjoyMDkyOTQ1MzkyfQ.N3Te9HORcOU4BbV-EBusKvgLQD_AbNEvcTUPrLv_GBI'
+    url: 'https://wefmaebbauooxrtngsuh.supabase.co',
+    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndlZm1hZWJiYXVvb3hydG5nc3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc0NTM4NTgsImV4cCI6MjA5MzAyOTg1OH0._MgdSdBtbwqWRetLW_G4O2VcGUGY0oRGKVpSyrA8uAg'
 };
 
 // CATATAN: Lo harus ganti anonKey dengan key asli dari Supabase project lo
